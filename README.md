@@ -1,7 +1,12 @@
-# Olá! :wave: Tudo bem?
-## Me chamo Harrison.
+# Olá! :wave: Eu sou o Harrison.
 
-Sou estudante de Ciências da Computação e desenvolvedor Full-Stack.
+Sou um entusiasta de Ciência da Computação e desenvolvedor Full-Stack apaixonado por transformar ideias em soluções práticas. Meu objetivo é criar software eficiente e de alta qualidade para enfrentar desafios complexos.
+
+Neste espaço, compartilho meus projetos e experiências, explorando diferentes tecnologias e linguagens de programação, como Python, HTML, CSS, JavaScript, SQLite e Bash. Adoro aprender novas tecnologias e acompanhar as tendências do mundo da programação.
+
+Além de programar, também sou um estudante de Ciências da Computação, buscando constantemente aprimorar meus conhecimentos e expandir minha visão sobre o campo. Adoro trabalhar em equipe e estou sempre aberto a colaborações e oportunidades de aprendizado.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo pelo LinkedIn. Vamos construir coisas incríveis juntos!
 
 ---
 
