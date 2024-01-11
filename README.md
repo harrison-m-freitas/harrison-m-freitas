@@ -11,8 +11,8 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
 ---
 
 <!-- Estatísticas -->
-<img alt="Estatísticas do GitHub do Alymins" src="https://github-readme-stats.vercel.app/api?username=Alymins&count_private=true&show_icons=true&theme=cobalt" width="400" height="auto">
-<img width="400" alt="Principais Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alymins&layout=compact&theme=cobalt">
+<img alt="Estatísticas do GitHub do Harrison M Freitas" src="https://github-readme-stats.vercel.app/api?username=harrison-m-freitas&count_private=true&show_icons=true&theme=cobalt" width="400" height="auto">
+<img width="400" alt="Principais Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrison-m-freitas&layout=compact&theme=cobalt">
 
 ---
 
@@ -28,5 +28,4 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo 
     <img width="100" height="100" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img width="100" height="100" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img width="100" height="100" alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-    <img width="100" height="100" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
 </div>
